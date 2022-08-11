@@ -1,3 +1,4 @@
+```
 Peptide Name: Spike 811-s
 Sequence: dddddd{Ahx}KPSgRSFIEDLLFNKVT
 Gross Weight: 5mg
@@ -55,3 +56,4 @@ C-Terminus: Amidation
 TFA Removal: Switch to Acetate salt, without TFA <1% guarantee (not recommended)
 Solubility Test (Free of Charge): Required
 Aliquots: x3
+```
