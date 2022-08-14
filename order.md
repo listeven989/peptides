@@ -30,6 +30,17 @@ Solubility Test (Free of Charge): Required
 Comments:All amino acids are L form.
 #############################################
 
+<!-- Bumped this one up to 10mg to share with another Radvac community member :) -->
+<!-- Helps with immunity for BA.2.75 -->
+Peptide Name: RBMO2-sc
+Sequence: dddddd{-}crSYsFrPTyGVGhQP{6}NkLDSKVsGNYNYrYc-amide
+Gross Weight: 10mg
+Purity: ≥90%
+TFA Removal: Switch to Acetate salt, without TFA <1% guarantee
+Solubility Test (Free of Charge): Required
+ Aliquots: x6
+#############################################
+
 Peptide Name: Orf1ab 5528T
 Sequence: DYGDAVVYRGTTTYKL
 Gross Weight: 5mg
@@ -58,13 +69,5 @@ Solubility Test (Free of Charge): Required
  Aliquots: x3
 #############################################
 
-<!-- Bumped this one up to 10mg to share with another Radvac community member :) -->
-Peptide Name: RBMO2-sc
-Sequence: dddddd{-}crSYsFrPTyGVGhQP{6}NkLDSKVsGNYNYrYc-amide
-Gross Weight: 10mg
-Purity: ≥90%
-TFA Removal: Switch to Acetate salt, without TFA <1% guarantee
-Solubility Test (Free of Charge): Required
- Aliquots: x6
-#############################################
+
 ```
