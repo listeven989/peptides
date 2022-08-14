@@ -19,13 +19,14 @@ Solubility Test (Free of Charge): Required
 Comments: All amino acids are L form.
 #############################################
 
+<!-- Bumped this one up to 10mg to share with another Radvac community member :) -->
 Peptide Name: RBMO4/5-sc
 Sequence: dddddd{Ahx}cQSYGFrPTyGVGhQP{Ahx}NkLDSKVGGNYNYrYc-amide
-Gross Weight: 5mg
+Gross Weight: 10mg
 Purity: >90%
 TFA Removal: Switch to Acetate salt, without TFA <1% guarantee
 Solubility Test (Free of Charge): Required
- Aliquots: x3
+ Aliquots: x6
 Comments:All amino acids are L form.
 #############################################
 
