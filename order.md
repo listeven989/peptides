@@ -32,7 +32,7 @@ Comments:All amino acids are L form.
 Peptide Name: Orf1ab 5528T
 Sequence: DYGDAVVYRGTTTYKL
 Gross Weight: 5mg
-Purity: >90%
+Purity: Crude
 TFA Removal: Switch to Acetate salt, without TFA <1% guarantee
 Solubility Test (Free of Charge): Required
  Aliquots: x3
@@ -42,7 +42,7 @@ Peptide Name: Mem 172T-key
 Product Description Qty Unit Price Line Total
 Sequence: acetyl-LRMK{Ahx}TSRTLSYYKLGASQRVA-amide
 Gross Weight: 5mg
-Purity: >85%
+Purity: Crude
 TFA Removal:Switch to Acetate salt, without TFA <1% guarantee
 Solubility Test (Free of Charge): Required
  Aliquots: x3
@@ -51,7 +51,7 @@ Solubility Test (Free of Charge): Required
 Peptide Name: Orf1ab 4723T
 Sequence: RKIFVDGVPFVVSTGYHFRE
 Gross Weight: 5mg
-Purity: >90%
+Purity: Crude
 TFA Removal: Switch to Acetate salt, without TFA <1% guarantee
 Solubility Test (Free of Charge): Required
  Aliquots: x3
