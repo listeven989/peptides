@@ -57,4 +57,13 @@ TFA Removal: Switch to Acetate salt, without TFA <1% guarantee
 Solubility Test (Free of Charge): Required
  Aliquots: x3
 ##############################
+
+<!-- Bumped this one up to 10mg to share with another Radvac community member :) -->
+Peptide Name: RBMO2-sc
+Sequence: dddddd{-}crSYsFrPTyGVGhQP{6}NkLDSKVsGNYNYrYc-amide
+Gross Weight: 10mg
+Purity: ≥90%
+TFA Removal: Switch to Acetate salt, without TFA <1% guarantee
+Solubility Test (Free of Charge): Required
+ Aliquots: x6
 ```
